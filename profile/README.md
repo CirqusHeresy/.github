@@ -15,7 +15,7 @@ We are a philosophical Order and Web3 DAO architecting alternatives to inherited
 | 📜 Manifesto | [cirqusheresy.com/manifesto](https://cirqusheresy.com/manifesto) |
 | 🏛️ Structure | [cirqusheresy.com/structure](https://cirqusheresy.com/structure) |
 | 💬 Discord | [discord.gg/BtybhtCtks](https://discord.gg/BtybhtCtks) |
-| 🐦 X | [@CirqusH84220](https://x.com/CirqusHeresy) |
+| 🐦 X | [@CirqusHeresy](https://x.com/CirqusHeresy) |
 | 📝 Paragraph | [paragraph.xyz/@cirqus](https://paragraph.xyz/@cirqus) |
 | 🛒 OpenSea | [Temple NFT](https://opensea.io/collection/cirqus-heresy-temples) |
 
