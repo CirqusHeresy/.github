@@ -18,7 +18,7 @@ We are a philosophical Order and Web3 DAO architecting alternatives to inherited
 | 🐦 X | [@CirqusHeresy](https://x.com/CirqusHeresy) |
 | 📝 Paragraph | [paragraph.xyz/@cirqus](https://paragraph.xyz/@cirqus) |
 | 🛒 OpenSea | [Temple NFT](https://opensea.io/collection/cirqus-heresy-temples) |
-
+| 📺 YouTube | [youtube.com/@CirqusHeresy](https://www.youtube.com/@CirqusHeresy) |
 ---
 
 ### ⬡ The Hexastorm Council
